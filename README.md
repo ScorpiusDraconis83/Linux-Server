@@ -301,7 +301,7 @@
 ## 📚 Reference & Attribution
 
 > 🧾 **Disclaimer:**  
-> This repository is a collection of cybersecurity notes, built with reference to the sessions conducted by **Mr. Sachin Verma Sir** at **Armour Infosec**.  
+> This repository is a collection of Linux Server notes, built with reference to the sessions conducted by **Mr. Sachin Verma Sir** at **Armour Infosec**.  
 > While the foundational knowledge and many core concepts are derived from the coaching content, I have also:
 > - 🛠️ Rewritten and structured the material in my own way  
 > - 🧠 Added personal insights, practical examples, and formatting  
