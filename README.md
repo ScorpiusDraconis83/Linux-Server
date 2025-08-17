@@ -293,23 +293,22 @@
 - 🛠️ [LDAP Server Setup Guide](https://github.com/nikhilpatidar01/Linux-Server/blob/Master/LDAP%20Server/Kali%20Linux%2C%20Debian%20and%20Ubuntu/1.%20LDAP%20Server%20Setup.md)
 
 ---
-<h4 align="center">🅾️ Created by <a href="https://github.com/nikhilpatidar01" target="_blank">Nikhil Patidar</a></h4>
 
----
-
-
-## 📚 Reference & Attribution
+## 📚 Reference & Attribution 
 
 > 🧾 **Disclaimer:**  
-> This repository is a collection of Linux Server notes, built with reference to the sessions conducted by **Mr. Sachin Verma Sir** at **Armour Infosec**.  
+> This repository is a collection of Linux-Server notes, built with reference to the sessions conducted by **Mr. Sachin Verma Sir** at **[Armour Infosec](https://www.armourinfosec.com/)**.  
+
 > While the foundational knowledge and many core concepts are derived from the coaching content, I have also:
 > - 🛠️ Rewritten and structured the material in my own way  
 > - 🧠 Added personal insights, practical examples, and formatting  
 > - 📝 Included extra references and enhancements wherever needed
-> 💡 The goal of this repo is to reinforce my own learning and to help the broader community — **not for commercial purposes**.
-> 🙏 Special thanks to **Mr. Sachin Verma Sir**  for their high-quality training and mentorship.
+
+> - 💡 The goal of this repo is to reinforce my own learning and to help the broader community — **not for commercial purposes**.
+> - 😊 Special thanks to **[Mr. Sachin Verma Sir](https://www.linkedin.com/in/vsachin168?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**  for their high-quality training and mentorship.
 
 ---
+
 ## 🤝 Contributing
 
 Feel free to contribute by adding similar content to this repository.
@@ -318,6 +317,8 @@ Your help in improving the documents and making them more valuable is always app
 <a href="https://github.com/nikhilpatidar01/Linux-Server/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=nikhilpatidar01/Linux-Server" />
 </a>
+
+---
 
 ---
 
