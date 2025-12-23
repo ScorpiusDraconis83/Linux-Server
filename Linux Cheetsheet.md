@@ -132,10 +132,3 @@
 | `chown`  | Changes file owner and group.                      |
 
 ---
-
-Want it in **Markdown**, **PDF**, or **printable style**? Just say the word.
-I can also add examples like:
-
-```bash
-grep "root" /etc/passwd
-```
